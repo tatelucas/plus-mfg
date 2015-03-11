@@ -1,0 +1,266 @@
+.admin-bar header .navbar-fixed-top {
+	top: 32px;
+}
+
+.hasinnernav {
+	height: 60px;
+}
+
+#P1 {
+	background: rgba(0,0,0,0.5);
+	display:block;
+	margin: auto;
+}
+
+.pie-chart-data {
+	display: none;
+}
+
+.doughnut-box .col-md-7{
+    height:400px;
+}
+
+.section-type-piechart .wrapper-lg{
+	padding-bottom:0;
+}
+
+.doughnut-box{
+    margin-bottom: 80px;
+}
+
+.area-chart-data {
+	display: none;
+}
+
+.section-type-tabs img {
+	max-width: none;
+}
+
+.header {
+	position: relative;
+}
+
+.image-dashboard img {
+	margin: 0 auto;
+}
+
+.header .overlay {
+	position: relative;
+}
+
+.hero-dashboard {
+	max-height: 100%;
+	overflow: hidden;
+}
+
+.newsletter .input-group br {
+	display: none;
+}
+
+.newsletter input[type="email"]:focus {
+	border-color: #ffffff !important;
+}
+
+.mc4wp-alert {
+	color: #fff;
+}
+
+.footer-nav.no-margin {
+	margin-top: 0;
+}
+
+.desktop.js [data-canvas-highlight] {
+	background: none !important;
+}
+
+#single-page {
+	padding: 30px 0;
+}
+
+.page-title {
+	margin: 40px 0 0;
+}
+
+.section-type-blog {
+	padding: 60px 0;
+}
+
+.dark * {
+	color: #fff;
+}
+
+section {
+	background-size: cover;
+}
+
+.section-type-areachart {
+	padding: 80px 0 0;
+}
+
+.section-type-video {
+	padding: 80px 0;
+}
+
+.dark .panel-container * {
+	color: #353535;
+}
+
+.dark .form-control {
+	border-color: #fff;
+}
+
+.section-type-testimonials.dark .panel-container * {
+	color: #fff;
+}
+
+.mc4wp-form form > p {
+	display: none;
+}
+
+.dark .btn {
+	color: #353535;
+}
+
+.mc4wp-form {
+	margin: 0 !important;
+}
+
+.flexslider {
+	background: none;
+	border: 0;
+	-webkit-box-shadow: none;
+	-moz-box-shadow:    none;
+	-o-box-shadow:      none;
+	box-shadow:         none;
+}
+
+#commentform button[type]:hover {
+	background: #3e3e3e;
+	border-color: #3e3e3e;
+	color: #fff;
+}
+
+.hero-dashboard .signup-divider .form-control {
+	border-color: #fff;
+}
+
+.single-post .main-wrapper > section,
+.single-video .main-wrapper > section,
+.single-gallery .main-wrapper > section,
+.archive .main-wrapper > section,
+.blog .main-wrapper > section {
+	padding-top: 60px;
+}
+
+.post-media {
+	margin-bottom: 30px;
+}
+
+.post-media .flexslider {
+	margin-bottom: 0;
+}
+
+.overlay.is-transparent {
+	background: none;
+}
+
+.hero-section h1 > span.slider-text{
+	background:transparent;
+}
+
+.dark .btn.btn-color {
+	color: #fff;
+}
+
+* .btn i {
+	color: inherit;
+}
+
+@media (max-width: 768px) {
+
+	.canvas-holder,
+	.canvas2-holder {
+		position: relative;
+		top: 0;
+		left: 0;
+		width: 305px;
+		margin: 0 auto;
+	}
+
+	.doughnut-box .col-md-7 {
+		height: auto;
+	}
+
+	.canvas-holder .chart-text {
+		left: 90px;
+		top: 115px;
+	}
+	
+}
+
+.dropdown-menu {
+	background: none;
+	background-color: #eee;
+	border-radius: 0;
+	border: 0;
+	box-shadow: none;
+	width: 210px;
+}
+
+li:hover > .dropdown-menu {
+	display: block;
+}
+
+.dropdown-menu > li > .dropdown-menu {
+	left: 210px;
+	top: -7px;
+}
+
+@media (max-width: 991px) {
+	.dropdown-menu,
+	.dropdown-menu > li > .dropdown-menu {
+		display: block;
+		position: relative;
+		left: 0;
+		margin-left: 10px;
+		top: 0;
+		background: none;
+		float: none;
+	}
+
+	li .caret {
+		display: none;
+	}
+
+	.dropdown-menu li {
+		padding: 0;
+	}
+
+	.dropdown-menu li a {
+		color: #ffffff;
+		font-family: 'Raleway';
+		font-size: 11px;
+		font-style: normal;
+		font-weight: 700;
+		letter-spacing: 1px;
+		line-height: 15px;
+		text-transform: uppercase;
+	}
+
+	.dropdown-menu li a:hover {
+		background: none;
+		color: #eee;
+	}
+}
+
+.btn-ghost:focus {
+	color: #fff;
+}
+
+.btn-ghost:hover:focus {
+	color: #3e3e3e;
+}
+
+.dark .signup-divider .form-control {
+	color: #fff;
+}
